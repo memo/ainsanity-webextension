@@ -6,9 +6,11 @@ Here is a cross-browser [WebExtension](https://wiki.mozilla.org/WebExtensions) w
 
 Basically, I was getting a bit tired of constantly reading "XYZ use Artificial Intelligence to do ABC".
 
+### Install
+
+- [Firefox](https://addons.mozilla.org/en-GB/firefox/addon/ainsanity/)
+- [Chrome]()
+- Opera and Edge should also work from source
+
 ---
 ![ainsanity.jpg](img/ainsanity.jpg)
----
-![ainsanity2.jpg](img/ainsanity2.jpg)
----
-![ainsanity3.jpg](img/ainsanity3.jpg)
