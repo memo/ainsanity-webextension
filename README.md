@@ -1,4 +1,4 @@
-# AINSANITY
+# ainsanity
 
 I'm putting forward a motion to replace the terms *Artificial Intelligence*, *Artificially Intelligent*, *AI* etc. with *Data-Driven Methods* and *DDM*.
 
@@ -6,11 +6,14 @@ Here is a cross-browser [WebExtension](https://wiki.mozilla.org/WebExtensions) w
 
 Basically, I was getting a bit tired of constantly reading "XYZ use Artificial Intelligence to do ABC".
 
+https://github.com/memo/ainsanity-webextension
+
 ### Install
 
 - [Firefox](https://addons.mozilla.org/en-GB/firefox/addon/ainsanity/)
-- [Chrome]()
+- Chrome (coming soon. waiting to be verified :/ )
 - Opera and Edge should also work from source
 
----
+### Screenshots
+
 ![ainsanity.jpg](img/ainsanity.jpg)
