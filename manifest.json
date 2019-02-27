@@ -1,0 +1,18 @@
+{
+  "manifest_version": 2,
+  "name": "ainsanity",
+  "description": "Cross-browser WebExtension to replace the terms *Artificial Intelligence*, *Artificially Intelligent*, *AI* etc. with *Data-Driven Methods* and *DDM* (and throws in a bar graph emoji for good measure)",
+  "homepage_url": "http://www.memo.tv",
+  "version": "1.0",
+  "icons": {
+    "48": "icons/icon.png",
+    "96": "icons/icon@2x.png"
+  },
+
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["./emojiMap.js", "./substitute.js"]
+    }
+  ]
+}
