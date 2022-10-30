@@ -1,12 +1,15 @@
 # ainsanity
 
-I'm putting forward a motion to replace the terms 'Artificial Intelligence' and 'AI', with 'Automated Software System' and 'ASS'.
+I'm putting forward a motion to replace the terms **Artificial Intelligence** and **AI**, with **Automated Software System** and **ASS**.
 
-Here is a cross-browser [WebExtension](https://wiki.mozilla.org/WebExtensions) which does exactly that on any webpage.
+Here is a cross-browser WebExtension which does exactly that on any webpage.
 
-I was getting a bit tired of constantly reading "XYZ use an Artificial Intelligence to do ABC". Paritcularly when used as a noun, e.g. '**The** Artificial Intelligence ...', '**My** AI ...', '**An** AI ...', etc.
+Basically, I was getting a bit tired of constantly reading "*XYZ use **an Artificial Intelligence** to do ABC*". It's paritcularly annoying when used as a noun, e.g. **The** Artificial Intelligence ..., **My** AI ..., **An** AI ..., etc.
 
-https://github.com/memo/ainsanity-webextension
+Longer rant at 
+https://memoakten.medium.com/artificial-intelligence-as-the-name-of-a-research-field-vs-a-characteristic-of-being-920cb5f3361e
+
+Source at https://github.com/memo/ainsanity-webextension
 
 ### Install
 
