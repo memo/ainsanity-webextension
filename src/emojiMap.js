@@ -5,15 +5,16 @@
 /* exported sortedEmojiMap */
 
 let dictionary = new Map();
-dictionary.set('artificial intelligence', '📊 data-driven methods');
-dictionary.set('Artificial Intelligence', '📊 Data-Driven Methods');
-dictionary.set('Artificial intelligence', '📊 Data-driven methods');
-dictionary.set('ARTIFICIAL INTELLIGENCE', '📊 DATA-DRIVEN METHODS');
-dictionary.set('artificially intelligent', '📊 data-driven');
-dictionary.set('Artificially intelligent', '📊 Data-driven');
-dictionary.set('Artificially Intelligent', '📊 Data-Driven');
-dictionary.set('AI', '📊 DDM');
-dictionary.set('A[.]I[.]', '📊 D.D.M.');
+dictionary.set('artificial intelligence', 'Automated Software System (ASS)');
+dictionary.set('Artificial Intelligence', 'Automated Software System (ASS)');
+dictionary.set('Artificial intelligence', 'Automated Software System (ASS)');
+dictionary.set('ARTIFICIAL INTELLIGENCE', 'AUTOMATED SOFTWARE SYSTEM (ASS)');
+dictionary.set('artificial-intelligence', 'Automated Software System (ASS)');
+dictionary.set('Artificial-Intelligence', 'Automated Software System (ASS)');
+dictionary.set('Artificial-intelligence', 'Automated Software System (ASS)');
+dictionary.set('ARTIFICIAL-INTELLIGENCE', 'AUTOMATED SOFTWARE SYSTEM (ASS)');
+dictionary.set('AI', 'ASS');
+dictionary.set('A[.]I[.]', 'ASS');
 
 
 

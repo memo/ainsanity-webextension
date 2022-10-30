@@ -1,9 +1,9 @@
 {
   "manifest_version": 2,
   "name": "ainsanity",
-  "description": "Replace the terms Artificial Intelligence, AI etc. with Data-Driven Methods and DDM (and throws in a bar graph emoji)",
-  "homepage_url": "http://www.memo.tv",
-  "version": "1.1",
+  "description": "On any webpage, replaces the terms 'Artificial Intelligence' and 'AI' with 'Automated Software System' and 'ASS'.",
+  "homepage_url": "https://www.memo.tv",
+  "version": "2.0",
   "icons": {
     "48": "icons/icon48.png",
     "96": "icons/icon96.png",
